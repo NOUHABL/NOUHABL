@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 📫 How to reach me **nouha-bouali@outlook.com**
+- 📫 **nouha-bouali@outlook.com**
 
 <p align="left">
 </p>
