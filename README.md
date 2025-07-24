@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TusiMind**
 
-- 👯 Currently focusing on **Full Stack Web Development**
+- 👯 Focused on **Full Stack Web Development**
 
 - 📫  **nouha-bouali@outlook.com**
 
