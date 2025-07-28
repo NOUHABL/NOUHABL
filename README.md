@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NOUHA BL</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
+<h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
 - 🔭 I’m currently working on **TusiMind**
 
