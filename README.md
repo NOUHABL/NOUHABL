@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NOUHA BL</h1>
 <h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
-- 🔭 I’m currently working on **TusiMind**
+- 🔭 Current project **TusiMind**
 
 - 👯 Focused on **Full Stack Web Development**
 
